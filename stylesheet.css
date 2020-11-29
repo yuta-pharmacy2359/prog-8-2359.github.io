@@ -56,6 +56,11 @@ a {
 
 .twitter {
   background-color: #55acee;
+  margin-right: 10px
+}
+
+.line {
+  background-color: #239b76;
 }
 
 .btn {
